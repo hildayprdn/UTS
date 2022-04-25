@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap');
+* {
+	font-family: 'Sen',sans-serif;
+}
+nav {
+	background-color: #101820 ;
+}
+.nav-item a {
+	color: white !important;
+}
+.btn-outline-white {
+	outline: white;
+	color: white i !important;
+}
+.card-img-top {
+	border-radius: 6px;
+}
+.jumbotron {
+  padding: 120px 60px 180px 60px;
+  background-color: #101820;
+  text-align: center;
+  color: #fff;
+}
+.jumbotron a {
+	font-size: 3rem;
+}
+.btn-gabung {
+	margin-top: 15px;
+	font-size: 1.5rem;
+	color: white;
+	background-color: green;
+	border: 0;
+	padding: 7px 10px;
+	border-radius: 10px;
+}
+.card {
+	background-color: #101820;
+}
